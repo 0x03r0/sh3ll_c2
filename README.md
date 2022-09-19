@@ -6,6 +6,8 @@
 ![Capt![Capture123](https://user-images.githubusercontent.com/113890278/190983916-a96af21b-57fc-4748-af15-fc755fac723a.JPG)
 ure11](https://user-images.githubusercontent.com/113890278/190983904-c2f90c49-006d-4fd0-8c0c-a9adac1b1bbf.JPG)
 ![Capture12](https://user-images.githubusercontent.com/113890278/190982780-b3a29de5-a1e0-4e4d-9d4b-337239e2fd7f.jpg)
-<h1> Thanks to </h1>
+<h1> Supporters: </h1>
 <i>(1) inj3ctor <br>
    (2) b14ck</i>
+ <h2>License</h2>
+ <h3>sh3ll c2</h3> is licensed under MIT license take a look at the<a href="url">link text</a>
