@@ -10,4 +10,4 @@ ure11](https://user-images.githubusercontent.com/113890278/190983904-c2f90c49-00
 <i>(1) inj3ctor <br>
    (2) b14ck</i>
  <h2>License</h2>
- <h3>sh3ll c2</h3> is licensed under MIT license take a look at the<a href="https://github.com/0x03r0/sh3ll_c2/blob/main/LICENSE">License</a>
+ <b>sh3ll c2</b> is licensed under MIT license take a look at the<a href="https://github.com/0x03r0/sh3ll_c2/blob/main/LICENSE"> License</a> for more information.
