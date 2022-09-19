@@ -1,4 +1,4 @@
-<h1>sh3ll c2</h1>It is the simple reverse tcp shell and payload can be obfuscated. [!]<br>
+<h1>sh3ll c2</h1>It is the simple reverse tcp shell and payload can be obfuscated.<br>
 <h2>Screenshots:</h2>
 
 
