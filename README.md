@@ -1,4 +1,4 @@
-<h1>s<a href="https://github.com/0x03r0/sh3ll_c2/blob/main/shell_c2.ps1"> sh3ll c2</a></h1>It is the simple reverse tcp shell and payload can be obfuscated. [!]<br>
+<h1><a href="https://github.com/0x03r0/sh3ll_c2/blob/main/shell_c2.ps1"> sh3ll c2</a></h1>It is the simple reverse tcp shell and payload can be obfuscated. [!]<br>
 <h2>Screenshots</h2>
 
 
