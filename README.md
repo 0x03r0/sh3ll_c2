@@ -1,4 +1,4 @@
-[!] sh3ll c2 is the reverse tcp shell and payload can be obfuscated.[!]
+[!] sh3ll c2 is the simple reverse tcp shell and payload can be obfuscated. [!]
 
 
 ![Capture123](https://user-images.githubusercontent.com/113890278/190984709-96762f80-2fbd-4fd0-8cb8-ffb58cbf22ea.JPG)
