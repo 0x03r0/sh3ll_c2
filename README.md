@@ -4,11 +4,11 @@
 
 ![Point Blur_Nov052022_150338](https://user-images.githubusercontent.com/113890278/200113071-966dcc82-440c-4cb7-97bb-8157172c66bf.jpg)
 
-
-<pre class="notranslate"><code>git clone https://github.com/t3l3machus/hoaxshell
-cd ./hoaxshell
-sudo pip3 install -r requirements.txt
-chmod +x hoaxshell.py
+<h2>Installation:</h2>
+<pre class="notranslate"><code>
+run sh3ll_c2.ps1
+[-] lhost > (your_ip)
+[-] lport > 8080
 </code></pre>
 
 <h2>Usages:</h2>
