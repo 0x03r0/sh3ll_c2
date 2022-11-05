@@ -7,7 +7,7 @@
 <h2>Installation:</h2>
 <pre class="notranslate"><code>
  
- run sh3ll_c2.ps1 in PowerShell
+ run sh3ll_c2.ps1 
 
 [-] lhost > (your_ip)
 [-] lport > 8080
